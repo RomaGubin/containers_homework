@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1703348421656" clover="3.2.0">
+  <project timestamp="1703348421656" name="All files">
+    <metrics statements="12" coveredstatements="12" conditionals="4" coveredconditionals="4" methods="9" coveredmethods="9" elements="25" coveredelements="25" complexity="0" loc="12" ncloc="12" packages="1" files="2" classes="2"/>
+    <file name="ErrorStorage.js" path="/Users/r.gubin/Desktop/containers_homework/src/ErrorStorage.js">
+      <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="21" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="25" count="1" type="stmt"/>
+    </file>
+    <file name="TeamStorage.js" path="/Users/r.gubin/Desktop/containers_homework/src/TeamStorage.js">
+      <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="5" coveredmethods="5"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="6" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="9" count="2" type="stmt"/>
+      <line num="13" count="4" type="stmt"/>
+      <line num="17" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>
